@@ -5,7 +5,7 @@ This minimal example illustrates how to communicate between running Python and N
 ## How to run
 
 1. Clone the repository with `git clone https://github.com/fxmarty/unix-socket-python-nodejs.git`
-3. Assuming decently recent versions of Python are installed, run in two terminals, from the repository directory:
+3. Assuming decently recent versions of Python and Node.js are installed, run in two terminals, from the repository directory:
 - `python socket_server.py` (start the socket server)
 - `node socket_client_node.js` (start the socket client)
 
